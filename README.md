@@ -15,8 +15,19 @@
 
 # 3. 仓库地址
 
+## 本书地址
+
 + Github 仓库：[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)
 
+## 3.2 其他书籍
+
+译者翻译的其他书籍仓库地址：
+
++ 《流畅的Python-第2版》：[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)
++ 《Go Cookbook（中文版）》：[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)
++ 《学习Go语言-第2版》（进行中）：[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)
++ 《Oracle 23C 数据库概念手册}》：[https://github.com/chenyz1984/Oracle23cConceptsCN](https://github.com/chenyz1984/Oracle23cConceptsCN)
+  
 # 4. 错误纠正
 
 因个人精力有限，在翻译的过程中难免会出现些错误与疏漏。如在阅读过程中，发现错误，欢迎 [积极提交 issues](https://github.com/chenyz1984/GoCookbookCN/issues)。
