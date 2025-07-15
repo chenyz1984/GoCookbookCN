@@ -11,7 +11,7 @@
 
 # 2. 文档密码
 
-文档打开密码为：`P@ssW0rd_119554488`，捐赠 `9.9+`（留邮箱与书名）可**去除密码、减少及淡化水印**。
+文档打开密码为：`P@ssW0rd_119554488`，捐赠 `12.9+`（留邮箱与书名）可**去除密码、减少及淡化水印**。
 
 # 3. 仓库地址
 
@@ -27,7 +27,7 @@
 |--------|--------|--------|--------|
 |《流畅的Python-第2版》|《Fluent Python, 2nd Ed》|已完稿|[https://github.com/chenyz1984/FluentPython2ndCN](https://github.com/chenyz1984/FluentPython2ndCN)|
 |《Go Cookbook（中文版）》|《Go Cookbook》|已完稿|[https://github.com/chenyz1984/GoCookbookCN](https://github.com/chenyz1984/GoCookbookCN)|
-|《学习Go语言-第2版》|《Learning Go, 2nd Ed》|进行中|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
+|《学习Go语言-第2版》|《Learning Go, 2nd Ed》|已完稿|[https://github.com/chenyz1984/LearningGoV2CN](https://github.com/chenyz1984/LearningGoV2CN)|
 |《Oracle 23C 数据库概念手册》|《Oracle 23c Database Concepts》|已完稿|[https://github.com/chenyz1984/OraConceptCN](https://github.com/chenyz1984/OraConceptCN)|
   
 # 4. 错误纠正
